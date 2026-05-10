@@ -186,9 +186,6 @@ class ContainerSpec{
 
 
     static class ContainerSpecBuilder{
-
-        private ContainerSpecBuilder(){}
-
         private String image;
         private String tag;
         private String name;
